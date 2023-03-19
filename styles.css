@@ -1,3 +1,22 @@
-body {
-  background: orange;
+.name {
+  
+  display: flex;
+}
+
+.lahari {
+  /* color: blue; */
+}
+
+.main-container {
+  display: flex;
+  width: 100%;
+ 
+}
+.left-container {
+  flex: 0 1 50%;
+  max-width: 50%;
+}
+.right-container {
+  flex: 0 1 50%;
+  max-width: 50%;
 }
